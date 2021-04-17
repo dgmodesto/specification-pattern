@@ -1,0 +1,9 @@
+C:\labs\dotnetcore\Specification\src\Specification.Domain\obj\Debug\netcoreapp3.1\Specification.Domain.csprojAssemblyReference.cache
+C:\labs\dotnetcore\Specification\src\Specification.Domain\obj\Debug\netcoreapp3.1\Specification.Domain.AssemblyInfoInputs.cache
+C:\labs\dotnetcore\Specification\src\Specification.Domain\obj\Debug\netcoreapp3.1\Specification.Domain.AssemblyInfo.cs
+C:\labs\dotnetcore\Specification\src\Specification.Domain\obj\Debug\netcoreapp3.1\Specification.Domain.csproj.CoreCompileInputs.cache
+C:\labs\dotnetcore\Specification\src\Specification.Domain\bin\Debug\netcoreapp3.1\Specification.Domain.deps.json
+C:\labs\dotnetcore\Specification\src\Specification.Domain\bin\Debug\netcoreapp3.1\Specification.Domain.dll
+C:\labs\dotnetcore\Specification\src\Specification.Domain\bin\Debug\netcoreapp3.1\Specification.Domain.pdb
+C:\labs\dotnetcore\Specification\src\Specification.Domain\obj\Debug\netcoreapp3.1\Specification.Domain.dll
+C:\labs\dotnetcore\Specification\src\Specification.Domain\obj\Debug\netcoreapp3.1\Specification.Domain.pdb

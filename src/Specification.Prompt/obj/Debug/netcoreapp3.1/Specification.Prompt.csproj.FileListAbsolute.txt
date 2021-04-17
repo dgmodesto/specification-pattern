@@ -1,0 +1,16 @@
+C:\labs\dotnetcore\Specification\src\Specification.Prompt\obj\Debug\netcoreapp3.1\Specification.Prompt.csprojAssemblyReference.cache
+C:\labs\dotnetcore\Specification\src\Specification.Prompt\obj\Debug\netcoreapp3.1\Specification.Prompt.AssemblyInfoInputs.cache
+C:\labs\dotnetcore\Specification\src\Specification.Prompt\obj\Debug\netcoreapp3.1\Specification.Prompt.AssemblyInfo.cs
+C:\labs\dotnetcore\Specification\src\Specification.Prompt\obj\Debug\netcoreapp3.1\Specification.Prompt.csproj.CoreCompileInputs.cache
+C:\labs\dotnetcore\Specification\src\Specification.Prompt\bin\Debug\netcoreapp3.1\Specification.Prompt.exe
+C:\labs\dotnetcore\Specification\src\Specification.Prompt\bin\Debug\netcoreapp3.1\Specification.Prompt.deps.json
+C:\labs\dotnetcore\Specification\src\Specification.Prompt\bin\Debug\netcoreapp3.1\Specification.Prompt.runtimeconfig.json
+C:\labs\dotnetcore\Specification\src\Specification.Prompt\bin\Debug\netcoreapp3.1\Specification.Prompt.runtimeconfig.dev.json
+C:\labs\dotnetcore\Specification\src\Specification.Prompt\bin\Debug\netcoreapp3.1\Specification.Prompt.dll
+C:\labs\dotnetcore\Specification\src\Specification.Prompt\bin\Debug\netcoreapp3.1\Specification.Prompt.pdb
+C:\labs\dotnetcore\Specification\src\Specification.Prompt\bin\Debug\netcoreapp3.1\Specification.Domain.dll
+C:\labs\dotnetcore\Specification\src\Specification.Prompt\bin\Debug\netcoreapp3.1\Specification.Domain.pdb
+C:\labs\dotnetcore\Specification\src\Specification.Prompt\obj\Debug\netcoreapp3.1\Specification.Prompt.csproj.CopyComplete
+C:\labs\dotnetcore\Specification\src\Specification.Prompt\obj\Debug\netcoreapp3.1\Specification.Prompt.dll
+C:\labs\dotnetcore\Specification\src\Specification.Prompt\obj\Debug\netcoreapp3.1\Specification.Prompt.pdb
+C:\labs\dotnetcore\Specification\src\Specification.Prompt\obj\Debug\netcoreapp3.1\Specification.Prompt.genruntimeconfig.cache
