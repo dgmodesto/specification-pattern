@@ -2,6 +2,9 @@
 
 ## Aplicando o Padrão Specification com C#, mostrando como este padrão pode ser aplicado.
 
+![diagrama-classe-specification](https://user-images.githubusercontent.com/29544464/115096582-2e42a980-9efc-11eb-9de5-c34a8bf04b04.PNG) 
+
+
 - Na programação de computadores, o padrão de especificação é um padrão de design de software específico , por meio do qual as regras de negócios podem ser recombinadas encadeando as regras de negócios usando a lógica booleana. O padrão é freqüentemente usado no contexto de design orientado a domínio
 
 ### Explicação
