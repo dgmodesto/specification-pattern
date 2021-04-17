@@ -15,19 +15,19 @@ namespace Specification.Prompt
         {
             // Person list
             var people = new List<Person> {
-                new Person(Guid.NewGuid(), "Jacob 1", new Email("jacob1@gmail.com"), new Category(2, "Partner")),
-                new Person(Guid.NewGuid(), "Jacob 2", new Email("jacob2@gmail.com"), new Category(1, "Customer")),
-                new Person(Guid.NewGuid(), "Jacob 3", new Email("jacob3@gmail.com"), new Category(2, "Partner")),
-                new Person(Guid.NewGuid(), "Jacob 4", new Email("jacob4_gmail.com"), new Category(1, "Customer")),
-                new Person(Guid.NewGuid(), "Jacob 5", new Email("jacob5@gmail.com"), new Category(1, "Customer")),
-                new Person(Guid.NewGuid(), "Jacob 6", new Email("jacob6@gmail.com"), new Category(1, "Customer")),
-                new Person(Guid.NewGuid(), "Jacob 7", new Email("jacob7@gmail.com"), null) };
+                new Person(Guid.NewGuid(), "Douglas 1", new Email("douglas1@gmail.com"), new Category(2, "Partner")),
+                new Person(Guid.NewGuid(), "Douglas 2", new Email("douglas2@gmail.com"), new Category(1, "Customer")),
+                new Person(Guid.NewGuid(), "Douglas 3", new Email("douglas3@gmail.com"), new Category(2, "Partner")),
+                new Person(Guid.NewGuid(), "Douglas 4", new Email("douglas4_gmail.com"), new Category(1, "Customer")),
+                new Person(Guid.NewGuid(), "Douglas 5", new Email("douglas5@gmail.com"), new Category(1, "Customer")),
+                new Person(Guid.NewGuid(), "Douglas 6", new Email("douglas6@gmail.com"), new Category(1, "Customer")),
+                new Person(Guid.NewGuid(), "Douglas 7", new Email("douglas7@gmail.com"), null) };
 
             Console.WriteLine(":: ALL PEOPLE ::");
 
             foreach (var item in people)
             {
-                Console.WriteLine(item.PersonId + " | " + item.Name + " | " + item.Email.Address + " | " + item.Category?.Description);
+                Console.WriteLine(item.PersonId + " | " + item.Name + " | " + item?.Email?.Address + " | " + item.Category?.Description);
             }
 
             // Specifications usages
